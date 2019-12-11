@@ -2,7 +2,7 @@
 
 Repository for Blazor Server SPA with EF Core 3.1 Template
  
-Download this extension from the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.VuejsPack2019)
+Download this extension from the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=SarathLal.blazorspawithefcore)
 
 ---------------------------------------
  
