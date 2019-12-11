@@ -17,7 +17,7 @@ You can create a simple Employee App with all CRUD actions
 
 ### Steps to install the Template in your Machine
 
-#### Step 1: Choose our Blazor template from Visual Studio after installation 
+#### Step 1: Choose our Blazor template from Visual Studio, after successfull installation of the extension
 
 ![Snippets](BlazorSPA/assets/01ChooseTemplate.png)
 
