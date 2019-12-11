@@ -1,4 +1,5 @@
-# Blazor SPA With EF Core 3.1
+# Blazor SPA With EF Core 3.1 - Template
+
 Repository for Blazor Server SPA with EF Core 3.1 Template
  
 Download this extension from the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.VuejsPack2019)
@@ -7,7 +8,7 @@ Download this extension from the [VS Marketplace](https://marketplace.visualstud
  
 ## Features
  
-Create Blazor Server SPA with EF Core 3.1 in a minute. 
+Create a Blazor Server SPA with EF Core 3.1 in a minute. 
 You can create a simple Employee App with all CRUD actions
  
 ### Prerequisites
@@ -40,7 +41,7 @@ You can create a simple Employee App with all CRUD actions
 
 ![Snippets](BlazorSPA/assets/06CreateEmployee.PNG)
 
-#### You can try Edit/Delete the record as well.
+#### You can try to edit/delete the employee record as well.
 
 ## License
 [Apache 2.0](LICENSE)
